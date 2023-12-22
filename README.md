@@ -8,9 +8,7 @@ This project focuses on enhancing the resolution of videos using super-resolutio
 - [Installation](#installation)
 - [Usage](#usage)
 - [Parameters](#parameters)
-- [Example](#example)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Video enhancement through super-resolution is crucial for applications requiring higher visual fidelity. This project employs a deep learning approach to enhance video resolution by upscaling individual frames using a pre-trained model.
@@ -33,3 +31,28 @@ The process involves the following key steps:
    ```bash
    git clone https://github.com/ManaskrJha/Enhance-Video-Quality.git 
    cd Enhance-Video-Quality
+
+2. Download Real-ESRGAN
+
+   Download the pre trained model from the following repository:
+   
+   ```bash
+   git clone https://github.com/xinntao/Real-ESRGAN.git
+   cd Real-ESRGAN
+
+3. Download the architecture provided in files.
+
+## Usage
+1. Provide input video:
+2. Adjust parameters as needed.
+3. View the enhanced video in the specified output directory.
+
+## Parameters
+
+- input_video_path: Path to the input video file.
+- output_video_path: Path to save the enhanced video.
+- model_weights: Path to pre-trained model weights.
+
+## Contributing
+Contributions are welcome! If you find any bugs or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
