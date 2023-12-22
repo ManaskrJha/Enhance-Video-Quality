@@ -24,7 +24,8 @@ The process involves the following key steps:
 - Python 3.x
 - PyTorch
 - torchvision
-- Other dependencies (list them here)
+- ESRGAN
+- Architecture
 
 ## Installation
 1. Clone the repository:
