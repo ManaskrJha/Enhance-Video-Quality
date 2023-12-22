@@ -31,5 +31,5 @@ The process involves the following key steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+   git clone https://github.com/ManaskrJha/Enhance-Video-Quality.git 
+   cd Enhance-Video-Quality
