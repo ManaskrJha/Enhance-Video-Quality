@@ -1,4 +1,4 @@
-# Video Enhancement with Super-Resolution
+# Video Enhancement 
 
 This project focuses on enhancing the resolution of videos using super-resolution techniques. It utilizes a deep learning model to upscale low-resolution frames, resulting in improved visual quality.
 
